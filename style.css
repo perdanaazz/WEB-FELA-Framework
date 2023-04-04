@@ -1,0 +1,150 @@
+#ourproduct {
+    background-color: #F5F5F5;
+}
+
+.nav-link {
+    font-family: Nunito;
+    font-size: 18px;
+}
+
+.iconify-flag {
+    font-size: 100px;
+}
+
+.bg {
+    position: relative;
+    background-image: url("1.png");
+    background-size: cover;
+}
+
+.bg-simulation {
+    position: relative;
+    background-image: url("2.png");
+    background-size: cover;
+}
+
+section {
+    height: 100vh;
+    display: flex;
+}
+
+#contactus {
+    height: 80vh;
+}
+
+.img-fluid {
+    height: 650px;
+}
+
+.btn-tokopedia {
+    font-family: Arial;
+    font-size: 18px;
+    color: white;
+    padding: 8px;
+    background-color: #41B54A;
+}
+.btn-shopee {
+    font-family: Arial;
+    font-size: 18px;
+    color: white;
+    padding: 8px;
+    background-color: #E85205;
+}
+.btn-bukalapak {
+    font-family: Arial;
+    font-size: 18px;
+    color: white;
+    padding: 8px;
+    background-color: #D71149;
+}
+
+.btn-langsung {
+    font-family: Arial;
+    font-size: 18px;
+    color: black;
+    padding: 8px;
+    background-color: #AADDD7;
+}
+
+.btn-order {
+    background-color: #179E96;
+    color: white;
+    width: 100%;
+}
+
+.title-zero {
+    font-family: Nunito;
+    font-size: 68px;
+    font-weight: bold;
+    color: white;
+    margin-top: 150px;
+    margin-left: 40px;
+    letter-spacing: 2px;
+}
+
+.subtitle-zero {
+    position: absolute;
+    font-family: Nunito;
+    font-size: 32px;
+    color: white;
+    margin-top: 250px;
+    margin-left: 40px;
+}
+
+.subtitle-zeros {
+    position: absolute;
+    font-family: Nunito;
+    font-size: 32px;
+    color: white;
+    margin-top: 300px;
+    margin-left: 40px;
+}
+
+.btn-journey {
+    font: Arial;
+    font-size: 25px;
+    position: absolute;
+    margin-top: 365px;
+    margin-left: 40px;
+    padding: 10px;
+    background-color: #AADDD7;
+}
+
+.btn-primer {
+    font: Arial;
+    width: 100%;
+    font-size: 14px;
+    padding: 10px;
+    background-color: #AADDD7;
+}
+
+footer {
+    vertical-align: middle;
+    padding: 25px;
+    background-color: #60C5B9;
+}
+
+.info {
+    margin-top: 4rem;
+    font-family: Nunito;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.nara {
+    font-family: Nunito;
+    font-size: 25px;
+}
+
+.go {
+    position: absolute;
+    font-size: 35px;
+    margin-top: 370px;
+    margin-left: 592px;
+    background-color: #F7941D;
+    text-decoration: none;
+}
+
+#simulation {
+    background-color: #AADDD7;
+}
